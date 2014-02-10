@@ -2,7 +2,7 @@
 public class Lampe
 {
 	/** Lampe poseede deux Methodes, allumer et Eteindre.
-	 * MAXIME MODIFIE LES COMMENTAIRES
+	 * MAXIME MODIFIE LES COMMENTAIRES tesgr
 	 */
 public boolean estAllumee;
 	
