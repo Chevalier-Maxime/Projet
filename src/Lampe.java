@@ -19,7 +19,7 @@ public Lampe()
 
 }
 
-/**Allumer() Allume la lampe
+/**Allumer() Allumezzz le feu/ la lampe
  * 
  */
 
